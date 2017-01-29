@@ -5,7 +5,7 @@ var Test = React.createClass({
 
   render: function() {
     return (
-      <h1>Booyah</h1>
+      <h1 id="testing">Booyah</h1>
       // <div />
     );
   }
